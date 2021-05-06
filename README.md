@@ -26,9 +26,9 @@ The problem we aim to conquer is rational rent pricing for apartments and houses
 
 ## Solution
 
-After data processing and cleaning, we totally have fifty variables, including ten continuous variables, thirty-four categorical variables and six datetime which means our features are mainly categorical variables. We randomly selected 70% of the total data to build our training set. MSE and MAE are performance metrics used for the model evaluation.
-About our modeling, we have implemented eight different models, including Ordinary Least Squares, Lasso regression, CART with Cross Validation, Random Forests, XG Boosting, Gradient Boosting, AdaBoost and Neural Network.  We implemented all the models and tuned parameters to improve the model performance.
-Finally, we choose Gradient Boosting to create our UI.
+After data processing and cleaning, we totally have fifty variables, including ten continuous variables, thirty-four categorical variables and six datetime which means our features are mainly categorical variables. We randomly select 70% of the total data to build our training set. MSE and MAE are performance metrics used for the model evaluation.
+About our modeling, we have eight different models, including Ordinary Least Squares, Lasso regression, CART with Cross Validation, Random Forests, XG Boosting, Gradient Boosting, AdaBoost and Neural Network.  We implement all the models and tune parameters to improve the model performance.
+Finally, we choose Gradient Boosting to create our UI. And we may further improve the model performance in the future to find the best prediction model.
 
 ## Result
 
