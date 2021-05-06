@@ -35,7 +35,7 @@ Finally, we choose Gradient Boosting to create our model.
 ## Requirement
 
  - python >= 3.5.3
-Geographiclib   ==    1.50
+ - Geographiclib   ==    1.50
 Geopandas   ==   0.9.0
 geoplot   ==   0.4.1
 geopy   ==    2.1.0
