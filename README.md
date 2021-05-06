@@ -34,22 +34,22 @@ Finally, we choose Gradient Boosting to create our model.
 
 ## Requirement
 
- - python >= 3.5.3
+ - python >= 3.7.3
  - Geographiclib   ==    1.50
-Geopandas   ==   0.9.0
-geoplot   ==   0.4.1
-geopy   ==    2.1.0
-Keras   ==   2.4.3
-Keras-Preprocessing   ==   1.1.2
-matplotlib   ==   3.2.2
-numpy   ==   1.20.1
-pandas   ==   1.0.5
-scikit-image   ==   0.16.2
-scikit-learn   ==   0.23.1
-scipy   ==   1.5.0
-seaborn   ==   0.10.1
-tensorflow   ==   2.4.1
-tensorflow-estimator   ==   2.4.0
-xgboost   ==   1.4.0
+ - Geopandas   ==   0.9.0
+ - geoplot   ==   0.4.1
+ - geopy   ==    2.1.0
+ - Keras   ==   2.4.3
+ - Keras-Preprocessing   ==   1.1.2
+ - matplotlib   ==   3.2.2
+ - numpy   ==   1.20.1
+ - pandas   ==   1.0.5
+ - scikit-image   ==   0.16.2
+ - scikit-learn   ==   0.23.1
+ - scipy   ==   1.5.0
+ - seaborn   ==   0.10.1
+ - tensorflow   ==   2.4.1
+ - tensorflow-estimator   ==   2.4.0
+ - xgboost   ==   1.4.0
 
 
