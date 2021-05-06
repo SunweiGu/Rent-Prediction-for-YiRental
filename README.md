@@ -30,7 +30,7 @@ After data processing and cleaning, we totally have fifty variables, including t
 
 About our modeling, we have eight different models, including Ordinary Least Squares, Lasso regression, CART with Cross Validation, Random Forests, XG Boosting, Gradient Boosting, AdaBoost and Neural Network.  We implement all the models and tune parameters to improve the model performance.
 
-Finally, we choose Gradient Boosting with seleted features to create our UI. And we may further improve the model performance in the future to find the best prediction model.
+Finally, we choose Gradient Boosting with seleted features to create our UI. We may further improve the model performance in the future to find the best prediction model and link it with the map to improve the user experience.
 
 ## Result
 
