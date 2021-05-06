@@ -32,7 +32,9 @@ About our modeling, we have eight different models, including Ordinary Least Squ
 
 Finally, we choose Gradient Boosting with seleted features to create our UI. We may further improve the model performance in the future to find the best prediction model and link it with the map to improve the user experience.
 
-## Result
+## Use Interface and result
+
+Our User Interface, which is a web-based application, combines the final Gradient Boosting model with a stepwise selection. Since there are too many categorical features that may affect user experience when they are inputting. We decided to select 6 most relevant features for now to design the UI. Pickle is used for storing our model, and Flask is used for interacting the HTML with our model. Internal Yirental users may use it for now to compare the estimated market price to the price landlords listed to make suggestions on price adjustment. This model is flexible enough to include external features that our stakeholders feel important and enables inputting in our UI page in the future. At last, we would pass on the prediction model to Yirental to integrate in their own systems and templates. In the future, this prediction function may be combined with a map (pin for rent prediction) and published to users.
 
 ## Requirement
 
