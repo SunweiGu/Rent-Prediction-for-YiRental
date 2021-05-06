@@ -1,6 +1,6 @@
 # Rent Prediction for Yirental
 
-The repository contains files ‘  ‘, which provides the dataset …, and file ‘  ’, which provides the code for data cleaning, modeling and visualization.
+The repository contains files ‘Housing_info.csv‘, which provides the raw dataset, and file ‘IEOR290_ProjectCode.ipynb’, which provides the code for data cleaning, modeling and visualization. 'Housing_info_withgeo.csv' and 'UShousing_info.csv' are supporting files which save intermediate results that can help shorten the running time.
 
 ## Project Overview
 
