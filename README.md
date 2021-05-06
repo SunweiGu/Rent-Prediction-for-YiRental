@@ -1,16 +1,3 @@
-# Rent-Prediction-for-YiRental
-- Project summary/overview (100) [Cara]
-- Project Background (100) [Cara]
-- Problem/Motivation (100) [CEO]
-- Solution/Approach (200-300) [Hongye]
-- Result (100) [Qiuyu]
-- Requirement [Sylvia]
-
-# Header 1
-## Header 2
-
-
-
 # Rent Prediction for Yirental
 
 The repository contains files ‘  ‘, which provides the dataset …, and file ‘  ’, which provides the code for data cleaning, modeling and visualization.
@@ -47,7 +34,7 @@ Finally, we choose Gradient Boosting to create our model.
 
 ## Requirement
 
-python >= 3.5.3
+ - python >= 3.5.3
 Geographiclib   ==    1.50
 Geopandas   ==   0.9.0
 geoplot   ==   0.4.1
@@ -65,6 +52,4 @@ tensorflow   ==   2.4.1
 tensorflow-estimator   ==   2.4.0
 xgboost   ==   1.4.0
 
-
-Feel free to contact Mikolaj Binkowski ('mikbinkowski at gmail.com') with any questions and issues.
 
