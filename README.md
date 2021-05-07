@@ -38,6 +38,8 @@ Our User Interface, which is a web-based application, combines the final Gradien
 
 ## Requirement
 
+Dataset: the shape of the orginal dataset: (9189, 64). There are 9189 observations and 64 features. One observation indicates one leasing post on the website.
+
  - python >= 3.7.3
  - Geographiclib   ==    1.50
  - Geopandas   ==   0.9.0
